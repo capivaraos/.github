@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📚 Documentação / Documentation
+    url: https://docs.capivaraos.org
+    about: Guias de instalação, uso, segurança e administração do CapivaraOS.
+  - name: 🔒 Reportar vulnerabilidade / Report a vulnerability
+    url: https://github.com/capivaraos/.github/blob/main/SECURITY.md
+    about: Falhas de segurança NÃO devem virar issue pública. Use a aba Security do repositório (Report a vulnerability) — veja SECURITY.md.
