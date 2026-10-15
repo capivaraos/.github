@@ -10,7 +10,7 @@ systems — crafted with care, open, and unhurried._
 |---|---|
 | 🖥️ **Marsh / Pup / Snout** | Edições desktop do CapivaraOS (Fedora spins) para uso diário. |
 | 🐗 **HERD** | Linha servidor — headless, fortalecida, com Cockpit. `HERD Community` é grátis e aberta. |
-| 🔎 **Capivara Fetch** | App de informações do sistema (GTK4). |
+| ⚙️ **COS Config Center** | App de configuração do sistema — codecs, disco, rede, firewall, teclado e idioma. |
 
 ## Links
 
