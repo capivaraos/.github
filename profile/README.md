@@ -9,7 +9,7 @@ systems — crafted with care, open, and unhurried._
 | Produto | O que é |
 |---|---|
 | 🖥️ **Marsh / Pup / Snout** | Edições desktop do CapivaraOS (Fedora spins) para uso diário. |
-| 🐗 **HERD** | Linha servidor — headless, endurecida, com Cockpit. `HERD Community` é grátis e aberta. |
+| 🐗 **HERD** | Linha servidor — headless, fortalecida, com Cockpit. `HERD Community` é grátis e aberta. |
 | 🔎 **Capivara Fetch** | App de informações do sistema (GTK4). |
 
 ## Links
